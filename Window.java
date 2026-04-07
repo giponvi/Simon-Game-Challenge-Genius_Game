@@ -46,7 +46,7 @@ public class Window{
         janela.add(quadro, BorderLayout.CENTER);
         janela.setVisible(true);
 
-        //criação de botão comoo clicável
+        //criação de botão como clicável
         bamarelo.addActionListener(e  -> {
             clicarBotao(3);
         });
