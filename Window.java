@@ -19,7 +19,6 @@ public class Window{
         janela.setSize(700,700);
         janela.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 
-
         //criação dos botões
         JButton bazul = new JButton();
         JButton bamarelo = new JButton();
