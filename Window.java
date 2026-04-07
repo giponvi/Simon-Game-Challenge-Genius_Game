@@ -64,7 +64,8 @@ public class Window{
         numAleatorio = (int) (Math.random() * 4) + 1;
         sequenciaCores.add(numAleatorio);
     }
-    public static int clicarBotao(int corClicada){
+
+    public static int clicarBotao(int corClicada) {
         System.out.println(corClicada);
         return corClicada;
     }
